@@ -1,2 +1,2 @@
 # ukrainian-lerner
-Сайт для вивчення української мови для німців.
+A site for providing Ukrainian language learning services for foreigners.
